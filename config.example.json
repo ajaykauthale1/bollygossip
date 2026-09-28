@@ -1,0 +1,17 @@
+{
+  "_note": "Copy to config.json and edit. Any command-line option can go here (use the long name without --). Command-line flags override this file.",
+  "ffmpeg": "C:\\ffmpeg\\bin",
+  "music": "music\\background.mp3",
+  "subreddit": "BollyBlindsNGossip",
+  "video_boost": 2.5,
+  "block_uploaders": [],
+  "block_domains": [],
+  "formats": "shorts,long",
+  "shorts": 2,
+  "short_seconds": 120,
+  "long_seconds": 1200,
+  "top": 30,
+  "comments": 3,
+  "style": "screenshot",
+  "out": "output"
+}
