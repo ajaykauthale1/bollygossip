@@ -1,0 +1,3 @@
+yt-dlp>=2024.1.0
+playwright>=1.40
+# ffmpeg must be on PATH. If it isn't, `pip install imageio-ffmpeg` provides a bundled binary.
