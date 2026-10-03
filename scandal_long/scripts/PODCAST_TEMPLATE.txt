@@ -1,0 +1,39 @@
+# title: English title shown top-left for the first 6 seconds
+# topic: Main names + story in English (used for clip searches), e.g. Govinda Sunita Ahuja divorce
+# music: auto
+#
+# RULES (lines starting with # are notes and are not spoken)
+# - Text lines next to each other form one part of the video (voiced, with its own clips).
+#   A new part starts at a [MUSIC]/[SFX]/[clip]/[screen] line or a blank line.
+#   Keep a part to 1-6 lines. End sentences with । . ? or !
+# - [screen: file.png | Reddit r/Sub] shows a screenshot from scandal_long\screens\ at the
+#   start of that part (crop it and blur usernames first).
+# - [MUSIC: ...] changes the background music from that point (crossfade + flash transition).
+#   Words it understands: retro/90s dance, mysterious/suspense/intense, nostalgic/emotional/light,
+#   dark/dramatic, gossip/investigative/fast, calm/ending, outro/fade out.
+# - [SFX: ...] plays a sound and the voice waits for it: record scratch, whoosh, camera shutter,
+#   thud/impact, tape click/mic drop. Add "music stops" / "रुक जाता है" to cut the music there.
+#   Put headlines in "quotes" in a reporters cue to get overlapping TV-news voices.
+# - Optional per part: [clip: english search words] on the line above it (else Claude Code
+#   picks searches), and [play: 8] for 8 s of the clip's own sound after it ([play: 0] = none).
+# - Write years and numbers as Hindi words if the voice reads them oddly.
+# - VOICEOVER (HOST):, Format:, Tone:, Language: lines are allowed and ignored.
+
+[SFX: 90 के दशक का डांस म्यूज़िक बजना शुरू होता है... फिर RECORD SCRATCH और म्यूज़िक रुक जाता है।]
+[SFX: बैकग्राउंड में न्यूज़ रिपोर्टर्स की आवाज़ें— "पहली हेडलाइन...", "दूसरी हेडलाइन?"]
+[MUSIC: मिस्टीरियस और इंटेंस बैकग्राउंड स्कोर शुरू होता है।]
+पहला हिस्सा: कहानी का हुक, दो-तीन वाक्य।
+दूसरा हिस्सा: क्या हुआ, कब हुआ।
+
+[MUSIC: म्यूज़िक हल्का और नॉस्टैल्जिक हो जाता है।]
+तीसरा हिस्सा: पुरानी कहानी, बैकग्राउंड।
+
+[SFX: अचानक एक भारी 'Thud' की आवाज़, और म्यूज़िक एकदम से रुक जाता है।]
+चौथा हिस्सा: ट्विस्ट।
+
+[MUSIC: एक शांत और मिस्टीरियस एंडिंग थीम शुरू होती है।]
+[clip: Bollywood star song dance]
+[play: 0]
+आखिरी हिस्सा: सवाल, कमेंट करें, लाइक, शेयर, सब्सक्राइब।
+[MUSIC: आउट्रो म्यूज़िक फेड आउट होता है।]
+[SFX: टेप रिकॉर्डर क्लिक साउंड]

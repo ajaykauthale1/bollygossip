@@ -1,0 +1,17 @@
+# title: Short English title shown top-left for the first 6 seconds (optional)
+# topic: Main names + story, added to every clip search (e.g. Ranveer Allahbadia controversy)
+# mood: dramatic | serious | light | upbeat  (picks a random track from music\<mood>\ folder; leave out for any track)
+#
+# One segment = optional [clip: ...] search hints, then the voiceover lines.
+# Leave a blank line between segments. Lines starting with # are ignored.
+# No hint -> the clip search uses the topic + the segment's own words.
+# Tip: English hints find better clips than Hindi lines.
+
+[clip: first search words]
+पहली लाइन यहाँ।
+दूसरी लाइन यहाँ।
+
+[clip: second search words] [clip: alternative search]
+अगले हिस्से की लाइनें।
+
+यह हिस्सा बिना hint के है, तो topic से ढूँढा जाएगा।
