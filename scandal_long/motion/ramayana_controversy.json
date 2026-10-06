@@ -1,0 +1,24 @@
+{
+  "chapters": {
+    "1": ["THE RS 800 CRORE+ EPIC", "Nitesh Tiwari's Ramayana"],
+    "2": ["THE 'BIG BEEF' CLIP", "2011 Rockstar promotions, resurfaced online"],
+    "3": ["THE KAPOOR DINNER VIDEO", "What netizens claimed"],
+    "4": ["SAI PALLAVI'S OLD INTERVIEW", "Virata Parvam promotions, June 2022"],
+    "5": ["THE SITA LOOK DEBATE", "Simple, no-makeup look splits opinion"],
+    "6": ["CHINMAYI'S 2010 TWEET", "Old tweet resurfaces"],
+    "7": ["RAHMAN x ZIMMER", "Two Oscar winners, one score"],
+    "8": ["THE BTS VIDEO", "Green screens spark a too-much-VFX debate"],
+    "9": ["LESSONS FROM ADIPURUSH", "Released June 2023"],
+    "10": ["THE HOPE", "Authentic, grounded, respectful"]
+  },
+  "chips": [
+    {"seg": 1, "at": 13.0, "dur": 5, "text": "PART 1 | DIWALI 2026"},
+    {"seg": 2, "at": 7.0, "dur": 5, "text": "QUOTE FROM 2011"},
+    {"seg": 3, "at": 7.0, "dur": 5, "text": "UNVERIFIED CLAIM"},
+    {"seg": 4, "at": 7.0, "dur": 5, "text": "JUNE 2022"},
+    {"seg": 6, "at": 12.0, "dur": 5, "text": "TWEET | 26 JAN 2010"},
+    {"seg": 8, "at": 7.0, "dur": 5, "text": "BTS VIDEO | 28 SEP 2026"},
+    {"seg": 9, "at": 7.0, "dur": 5, "text": "ADIPURUSH | 2023"}
+  ],
+  "cta": {"seg": 11, "at": 1.0, "text": "YOUR VERDICT?", "sub": "Comment below"}
+}
