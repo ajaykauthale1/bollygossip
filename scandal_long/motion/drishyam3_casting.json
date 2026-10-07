@@ -1,0 +1,20 @@
+{
+  "chapters": {
+    "2": ["THE REPLACEMENT", "Jaideep Ahlawat joins Drishyam 3"],
+    "3": ["SAME MAGIC?", "Drishyam 3 without Akshaye"]
+  },
+  "transitions": {"2": "whip", "3": "leak"},
+  "sfx_parts": [1, 3],
+  "chips": [
+    {"seg": 1, "at": 6.0, "dur": 4.5, "label": "EXIT", "text": "7 DAYS BEFORE SHOOT"},
+    {"seg": 2, "at": 10.0, "dur": 4.5, "label": "IN", "text": "JAIDEEP AHLAWAT"}
+  ],
+  "kinetic": [
+    {"seg": 1, "at": 0.3, "dur": 3.0, "text": "LAST-MINUTE EXIT!"},
+    {"seg": 2, "at": 4.0, "dur": 3.4, "text": "\"EVERYTHING WAS FINAL\"", "style": "quote"}
+  ],
+  "focus": [
+    {"seg": 1, "at": 10.0, "dur": 3.0, "amount": 0.12}
+  ],
+  "verdict": {"seg": 3, "at": 0.5, "q": "MAGIC INTACT?", "a": "YES", "b": "NO", "sub": "Comment below"}
+}

@@ -1,0 +1,20 @@
+{
+  "chapters": {
+    "2": ["THE 3-SECOND CLIP", "Naanum Rowdy Dhaan BTS | Netflix doc"],
+    "3": ["COPYRIGHT OR GRUDGE?", "Dhanush vs Nayanthara"]
+  },
+  "transitions": {"2": "whip", "3": "leak"},
+  "sfx_parts": [1, 3],
+  "chips": [
+    {"seg": 1, "at": 7.5, "dur": 4.5, "label": "NOTICE", "text": "₹10 CRORE"},
+    {"seg": 2, "at": 3.0, "dur": 4.5, "label": "CLIP", "text": "3 SECONDS"},
+    {"seg": 2, "at": 12.0, "dur": 4.5, "label": "REPLY", "text": "OPEN LETTER"}
+  ],
+  "kinetic": [
+    {"seg": 1, "at": 0.3, "dur": 3.0, "text": "10 CRORE FOR 3 SECONDS?"}
+  ],
+  "focus": [
+    {"seg": 2, "at": 12.0, "dur": 3.0, "amount": 0.12}
+  ],
+  "verdict": {"seg": 3, "at": 0.5, "q": "YOUR VERDICT?", "a": "COPYRIGHT", "b": "OLD GRUDGE", "sub": "Comment below"}
+}
