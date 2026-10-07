@@ -1,0 +1,13 @@
+{
+  "_note": "Spoken-text replacements applied before the voice (whole phrase, longest first). The script keeps the original spelling. Add English song/film/brand names here; the run log lists quoted names without an entry. Each entry was chosen by voicing variants and checking them with Whisper (6 Oct 2026).",
+  "बॉम डिग्गी डिग्गी": "बम डिगी डिगी",
+  "बोम डिग्गी डिग्गी": "बम डिगी डिगी",
+  "कमेंट्स": "कमेंट",
+  "दुआएं": "दुआ",
+  "दुआएँ": "दुआ",
+  "दिल चोरी": "दिल चोरी",
+  "सोनू के टीटू की स्वीटी": "सोनू के टीटू की स्वीटी",
+  "प्यार का पंचनामा": "प्यार का पंचनामा",
+  "छोरी": "छोरी",
+  "अकेली": "अकेली"
+}

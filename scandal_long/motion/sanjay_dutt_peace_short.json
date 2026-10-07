@@ -1,0 +1,20 @@
+{
+  "chapters": {
+    "2": ["SHEKHAR TONITE", "Gandhi Jayanti episode | 2 Oct 2026"],
+    "3": ["THE BACKLASH", "Trolls bring up the 1993 case"],
+    "4": ["THE CLARIFICATION", "Sanjay Dutt's statement on X"]
+  },
+  "chips": [
+    {"seg": 2, "at": 6.5, "dur": 4.5, "label": "AIRED", "text": "2 OCT 2026"},
+    {"seg": 3, "at": 7.5, "dur": 4.5, "label": "1993 CASE", "text": "ARMS ACT"},
+    {"seg": 3, "at": 22.5, "dur": 5.0, "label": "COURT", "text": "TADA: ACQUITTED"},
+    {"seg": 4, "at": 6.5, "dur": 4.5, "label": "POSTED ON X", "text": "4 OCT 2026"}
+  ],
+  "kinetic": [
+    {"seg": 1, "at": 0.3, "dur": 3.4, "text": "NO PEACE IN INDIA?"},
+    {"seg": 2, "at": 30.6, "dur": 4.6, "text": "\"I CAN'T FEEL THAT PEACE ANYMORE\"", "style": "quote"},
+    {"seg": 3, "at": 15.0, "dur": 3.0, "text": "THE IRONY?"},
+    {"seg": 4, "at": 13.0, "dur": 3.4, "text": "\"SCRIPTED\" & \"HUMOROUS\"", "style": "quote"}
+  ],
+  "verdict": {"seg": 5, "at": 0.3, "q": "YOUR VERDICT?", "a": "OVERREACTION", "b": "FAIR ANGER", "sub": "Comment below"}
+}

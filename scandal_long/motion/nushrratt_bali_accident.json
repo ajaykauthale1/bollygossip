@@ -1,0 +1,24 @@
+{
+  "chapters": {
+    "2": ["THE BALI TRIP", "Work-cum-holiday | Early Oct 2026"],
+    "3": ["AIRLIFTED HOME", "Air ambulance to Mumbai | 2 Oct"],
+    "4": ["WHAT'S NEXT", "Team statement on her health"],
+    "5": ["GET WELL SOON", "Fans pray for Nushrratt"]
+  },
+  "transitions": {"2": "leak", "3": "whip", "4": "whip", "5": "leak"},
+  "sfx_parts": [2, 3, 5],
+  "chips": [
+    {"seg": 2, "at": 7.0, "dur": 4.5, "label": "INJURY", "text": "SPINE FRACTURE"},
+    {"seg": 3, "at": 1.0, "dur": 4.5, "label": "BALI TO", "text": "MUMBAI"},
+    {"seg": 4, "at": 1.5, "dur": 4.5, "label": "NEXT", "text": "SPINE SURGERY"}
+  ],
+  "kinetic": [
+    {"seg": 1, "at": 0.3, "dur": 3.0, "text": "FROM THE SCREEN TO A HOSPITAL BED"},
+    {"seg": 4, "at": 9.0, "dur": 3.4, "text": "\"RESPECT HER PRIVACY\"", "style": "quote"},
+    {"seg": 5, "at": 9.0, "dur": 3.4, "text": "SEND YOUR WISHES BELOW"}
+  ],
+  "focus": [
+    {"seg": 3, "at": 7.0, "dur": 3.0, "amount": 0.12}
+  ]
+}
+

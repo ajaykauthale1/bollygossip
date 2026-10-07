@@ -1,0 +1,30 @@
+{
+  "chapters": {
+    "1": ["KHALNAYAK IN A NEW STORM", "Sanjay Dutt's 'peace' remark"],
+    "2": ["SHEKHAR TONITE", "Gandhi Jayanti special | 2 Oct 2026"],
+    "3": ["THE REMARK", "\"I can't feel that peace anymore\""],
+    "4": ["THE BACKLASH", "The clip goes viral, trolls react"],
+    "5": ["THE 1993 CASE", "What the courts actually decided"],
+    "6": ["MUNNA BHAI AS PM", "Shekhar's 'PM for 5 minutes' act"],
+    "7": ["THE CLARIFICATION", "Statement on X | 4 Oct 2026"],
+    "8": ["SHEKHAR DEFENDS", "\"A good man who loves his country\""],
+    "9": ["YOUR VERDICT", "Scripted satire or fair anger?"]
+  },
+  "chips": [
+    {"seg": 2, "at": 6.5, "dur": 4.5, "label": "AIRED", "text": "2 OCT 2026"},
+    {"seg": 5, "at": 6.5, "dur": 4.5, "label": "ARRESTED", "text": "APRIL 1993"},
+    {"seg": 5, "at": 12.5, "dur": 5.0, "label": "TADA CHARGES", "text": "ACQUITTED 2007"},
+    {"seg": 5, "at": 18.5, "dur": 5.0, "label": "ARMS ACT", "text": "SENTENCE SERVED"},
+    {"seg": 7, "at": 6.5, "dur": 4.5, "label": "POSTED ON X", "text": "4 OCT 2026"}
+  ],
+  "kinetic": [
+    {"seg": 1, "at": 12.2, "dur": 3.6, "text": "ONE REMARK. ONE BIG STORM."},
+    {"seg": 3, "at": 25.4, "dur": 4.8, "text": "\"I CAN'T FEEL THAT PEACE ANYMORE\"", "style": "quote"},
+    {"seg": 4, "at": 11.0, "dur": 3.2, "text": "WHICH 'OLD DAYS'?"},
+    {"seg": 5, "at": 24.5, "dur": 3.4, "text": "24 YEARS OF TRIAL"},
+    {"seg": 6, "at": 29.2, "dur": 4.2, "text": "\"VIDESH NAHI JAANE WALA\"", "style": "quote"},
+    {"seg": 7, "at": 13.0, "dur": 3.6, "text": "\"SCRIPTED\" & \"LIGHT-HEARTED\"", "style": "quote"},
+    {"seg": 8, "at": 13.5, "dur": 3.0, "text": "GANDHIGIRI"}
+  ],
+  "verdict": {"seg": 9, "at": 6.4, "q": "YOUR VERDICT?", "a": "LET IT GO", "b": "FAIR CRITICISM", "sub": "Comment below"}
+}
