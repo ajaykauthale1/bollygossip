@@ -1,0 +1,40 @@
+{
+  "chapters": {
+    "1": ["THE FINAL GOODBYE", "Nana Patekar | 1951-2026"],
+    "2": ["8 OCTOBER 2026", "Cardiac arrest at 75"],
+    "3": ["THE GOA HOME", "Found unconscious, rushed to hospital"],
+    "4": ["45 MINUTES OF CPR", "Manipal Hospital, Goa"],
+    "5": ["5:20 AM", "Declared dead by doctors"],
+    "6": ["FROM THE STAGE", "Film debut: Gaman (1978)"],
+    "7": ["PARINDA TO KRANTIVEER", "Anna (1989) | Krantiveer (1994)"],
+    "8": ["UDAY SHETTY", "Welcome (2007)"],
+    "9": ["NATSAMRAT", "Marathi film | 2016"],
+    "10": ["BOLLYWOOD MOURNS", "Salman Khan postpones his event"],
+    "11": ["AKSHAY KUMAR", "Co-star in Housefull 5"],
+    "12": ["THE REAL NANA", "A simple life, close to the soil"],
+    "13": ["NAAM FOUNDATION", "Help for drought-hit farmers"],
+    "14": ["FINAL JOURNEY", "From Goa to Pune"],
+    "15": ["STATE HONOURS", "Last rites at his farmhouse"],
+    "16": ["FOREVER NANA", "Share your memories below"]
+  },
+  "transitions": {"6": "leak", "12": "leak", "13": "leak", "15": "leak", "16": "leak"},
+  "sfx_parts": [1, 2, 4, 6, 9, 10, 12, 14, 16],
+  "chips": [
+    {"seg": 2, "at": 9.0, "dur": 4.5, "label": "AGE", "text": "75"},
+    {"seg": 4, "at": 7.0, "dur": 4.5, "label": "CPR", "text": "~45 MINUTES"},
+    {"seg": 5, "at": 6.0, "dur": 4.5, "label": "DECLARED DEAD", "text": "5:20 AM"},
+    {"seg": 6, "at": 9.0, "dur": 4.5, "label": "DEBUT", "text": "GAMAN 1978"},
+    {"seg": 9, "at": 4.0, "dur": 4.5, "label": "NATSAMRAT", "text": "2016"},
+    {"seg": 11, "at": 4.0, "dur": 4.5, "label": "TOGETHER IN", "text": "HOUSEFULL 5"}
+  ],
+  "kinetic": [
+    {"seg": 1, "at": 0.4, "dur": 3.2, "text": "THE VOICE FALLS SILENT"},
+    {"seg": 9, "at": 13.5, "dur": 3.4, "text": "THE FINAL CURTAIN"},
+    {"seg": 16, "at": 1.0, "dur": 3.4, "text": "END OF AN ERA"},
+    {"seg": 13, "at": 12.0, "dur": 3.2, "text": "A FARMER'S HERO"}
+  ],
+  "focus": [
+    {"seg": 5, "at": 2.0, "dur": 3.0, "amount": 0.12},
+    {"seg": 15, "at": 9.0, "dur": 3.0, "amount": 0.10}
+  ]
+}

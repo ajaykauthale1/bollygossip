@@ -1,0 +1,16 @@
+{
+  "chapters": {
+    "2": ["THE LEGEND", "Parinda | Krantiveer | Welcome | Natsamrat"],
+    "3": ["THE REAL NANA", "A simple life"],
+    "4": ["NAAM FOUNDATION", "Help for drought-hit farmers"]
+  },
+  "transitions": {"3": "leak", "4": "leak", "5": "leak"},
+  "sfx_parts": [1, 2, 3, 4, 5],
+  "chips": [
+    {"seg": 1, "at": 7.0, "dur": 4.0, "label": "8 OCT 2026", "text": "AGE 75"}
+  ],
+  "kinetic": [
+    {"seg": 1, "at": 0.4, "dur": 3.0, "text": "THE SILENT ROAR"},
+    {"seg": 5, "at": 0.5, "dur": 3.4, "text": "YOUR FAVOURITE DIALOGUE?"}
+  ]
+}
